@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "StormGust";
+  src: url(../fonts/storm_gust.ttf) format("truetype");
+}
+
+* {
+  font-family: 'StormGust';
+}
